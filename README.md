@@ -17,6 +17,7 @@ Welcome, indie game devs, Blender artists, Godot/Unity/Unreal builders, modders,
 | Unicorn Rodeo | [Play the game](https://tylerboobies.com/games/unicorn-rodeo/) |
 | Buck Revenge | [Play the game](https://tylerboobies.com/games/buck-revenge/) |
 | Developer walkthrough | [Quickstart](docs/DEVELOPER-QUICKSTART.md) |
+| Character possibilities (GTA-style mods, 3D printing, Blender and more) | [What you can build](docs/WHAT-YOU-CAN-BUILD.md) |
 
 ## Build with us
 
