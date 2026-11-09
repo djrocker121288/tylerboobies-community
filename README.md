@@ -17,13 +17,14 @@ Welcome, indie game devs, Blender artists, Godot/Unity/Unreal builders, modders,
 | Unicorn Rodeo | [Play the game](https://tylerboobies.com/games/unicorn-rodeo/) |
 | Buck Revenge | [Play the game](https://tylerboobies.com/games/buck-revenge/) |
 | Developer walkthrough | [Quickstart](docs/DEVELOPER-QUICKSTART.md) |
-| Character possibilities (GTA-style mods, 3D printing, Blender and more) | [What you can build](docs/WHAT-YOU-CAN-BUILD.md) |
+| **All creative possibilities: games, GTA mods, avatars, 3D printing, animations** | [Live possibilities page](https://tylerboobies.com/possibilities) · [Developer ideas guide](docs/WHAT-YOU-CAN-BUILD.md) |
+| **GTA IV PC character mod — a concept, NOT a completed download** | [Unofficial GTA mod project](https://tylerboobies.com/gta-mods) · [Help build the mod](https://github.com/djrocker121288/tylerboobies-community/issues/3) |
 
 ## Build with us
 
 Create your **own original character**, propose a game, use the available model files within their applicable rights, build a Godot or browser prototype, design new animations, or make a mod. [Open a community issue](../../issues/new/choose) to share your project or idea.
 
-We welcome original characters, rigging examples, T-pose tutorials, GLB/FBX workflows, printable model advice, browser games, funny animations and developer docs. All skill levels welcome.
+We welcome original characters, rigging examples, T-pose tutorials, GLB/FBX workflows, printable model advice, browser games, funny animations, GTA-style PC mod concepts, original VR avatar experiments and developer docs. Join the [creative ideas discussion](https://github.com/djrocker121288/tylerboobies-community/discussions/4) with your project or suggestion. All skill levels welcome.
 
 **Important:** The website source code is MIT-licensed. Character likeness, source images, music, voices, video and other downloadable assets are **not automatically covered by that license**. Free downloads do not necessarily grant permission for commercial reuse. See [Asset rights](ASSET-RIGHTS.md). Some models are simplified previews or experimental, not guaranteed production-ready.
 
