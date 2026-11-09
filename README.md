@@ -13,7 +13,7 @@ Welcome, indie game devs, Blender artists, Godot/Unity/Unreal builders, modders,
 | Main website | [TylerBoobies.com](https://tylerboobies.com) |
 | **Actual 3D models** (GLB, FBX, OBJ and printable STL) | [3D models & live previews](https://tylerboobies.com/models) |
 | **Starter pack** (images, video, experimental Godot sample) | [Free starter ZIP](https://assets.tylerboobies.com/assets/v4/tyler-starter-pack.zip) |
-| Original MIT-licensed website code | [Website source ZIP](https://assets.tylerboobies.com/assets/v4/tyler-website-v4-source.zip) |
+| Original MIT-licensed website code | [Browse source on GitHub](website-source/) or [download source ZIP](https://assets.tylerboobies.com/assets/v4/tyler-website-v4-source.zip) |
 | Unicorn Rodeo | [Play the game](https://tylerboobies.com/games/unicorn-rodeo/) |
 | Buck Revenge | [Play the game](https://tylerboobies.com/games/buck-revenge/) |
 | Developer walkthrough | [Quickstart](docs/DEVELOPER-QUICKSTART.md) |
